@@ -1,0 +1,47 @@
+﻿Instalando ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Instalando el servicio VID_SBOService...
+El servicio VID_SBOService se ha instalado correctamente.
+Creando el origen de EventLog VID_SBOService en el registro Application...
+Confirmando ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Desinstalando ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Quitando el origen de EventLog VID_SBOService.
+Se está quitando el servicio VID_SBOService del sistema...
+El servicio VID_SBOService se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Instalando el servicio VID_SBOService...
+El servicio VID_SBOService se ha instalado correctamente.
+Creando el origen de EventLog VID_SBOService en el registro Application...
+Confirmando ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Instalando ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Instalando el servicio VID_SBOService...
+Creando el origen de EventLog VID_SBOService en el registro Application...
+Deshaciendo ensamblado 'C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.InstallLog
+   assemblypath = C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+Restaurando el registro de eventos al estado anterior para el origen VID_SBOService.

@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Llacolen_SBOService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Antonio-PC</Value>
+    </Setting>
+    <Setting Name="SQLType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2014</Value>
+    </Setting>
+    <Setting Name="DBUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">soportevk</Value>
+    </Setting>
+    <Setting Name="CompanyDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LlacolenOficial</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">manager</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="BatchServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="BatchDB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BackupMipunto</Value>
+    </Setting>
+    <Setting Name="BatchUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="BatchPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123456</Value>
+    </Setting>
+    <Setting Name="Debug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BatchType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MySQL</Value>
+    </Setting>
+    <Setting Name="BatchMySQLType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5.3</Value>
+    </Setting>
+    <Setting Name="BatchMySQLPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="IntervaloEnSegundos" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,1 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil "C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe"

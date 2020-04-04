@@ -1,0 +1,11 @@
+C:\Users\IOP\Documents\SBO\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe.config
+C:\Users\IOP\Documents\SBO\Llacolen SBOService\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\IOP\Documents\SBO\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.csproj.ResolveComReference.cache
+C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe.config
+C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe
+C:\VisualK\Proyectos\Llacolen SBOService\bin\Debug\Llacolen SBOService.pdb
+C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen_SBOService.ProjectInstaller.resources
+C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen_SBOService.VID_SBOService.resources
+C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.csproj.GenerateResource.Cache
+C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.exe
+C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.pdb
