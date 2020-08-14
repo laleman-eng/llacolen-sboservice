@@ -9,3 +9,6 @@ C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen_SBOService.VID_S
 C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.csproj.GenerateResource.Cache
 C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.exe
 C:\VisualK\Proyectos\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.pdb
+C:\VisualK\Llacolen SBOService\bin\Debug\Llacolen SBOService.exe.config
+C:\VisualK\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.exe
+C:\VisualK\Llacolen SBOService\obj\x86\Debug\Llacolen SBOService.pdb
